@@ -19,10 +19,10 @@ class ArticlesController < ApplicationController
     redirect_to article_path(@article)
   end
 
-  def edit 
+  def edit
   end
 
-  def update 
+  def update
   end
 
   # add edit and update methods here
